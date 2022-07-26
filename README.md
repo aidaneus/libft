@@ -3,9 +3,6 @@
 > :warning: **This program is implemented under the Mac OS system.**
 
 ## Rus
-
-Проект посвящен изучению работы функций на языке C.
-
 #### Цель:
 ```
 Изучить работу функций изнутри.
